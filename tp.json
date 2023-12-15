@@ -1,0 +1,104 @@
+{
+    "intents": [
+      {
+        "tag": "prima_ai_what_is",
+        "patterns": [
+          "What is Prima AI?",
+          "Tell me about Prima AI",
+          "What does Prima AI do?"
+        ],
+        "responses": [
+          "Prima AI is a leading fintech startup, combining AI, machine learning, and data analytics to empower investors in the stock market. We offer innovative tools and insights for informed investment decisions."
+        ]
+      },
+      {
+        "tag": "prima_ai_services",
+        "patterns": [
+          "What services does Prima AI offer?",
+          "What can I do with Prima AI?",
+          "How can Prima AI help me?"
+        ],
+        "responses": [
+          "Prima AI provides AI-powered stock analysis and recommendations, personalized portfolios, advanced market insights, and educational resources. What area interests you the most?"
+        ]
+      },
+  
+      {
+        "tag": "prima_ai_technology",
+        "patterns": [
+          "What technologies does Prima AI use?",
+          "How does AI work at Prima AI?",
+          "Tell me about your machine learning models."
+        ],
+        "responses": [
+          "We leverage machine learning, deep learning, generative AI, and data analytics to analyze vast amounts of market data, identify patterns, and generate insights for informed investment decisions."
+        ]
+      },
+      {
+        "tag": "prima_ai_gen_ai",
+        "patterns": [
+          "What is generative AI doing at Prima AI?",
+          "How do you use generative AI in the stock market?",
+          "Can I interact with your AI models?"
+        ],
+        "responses": [
+          "We're exploring generative AI for personalized advice, but currently, our AI models analyze data and generate insights behind the scenes. Interactive features may be available in the future."
+        ]
+      },
+  
+      {
+        "tag": "prima_ai_stock_market",
+        "patterns": [
+          "How can Prima AI help me with the stock market?",
+          "What kind of stock market insights do you offer?",
+          "Can you predict the stock market?"
+        ],
+        "responses": [
+          "We can't predict the future, but Prima AI helps you make informed decisions with AI-powered stock analysis, real-time market data, backtesting tools, and educational resources on technical and fundamental analysis."
+        ]
+      },
+      {
+        "tag": "prima_ai_portfolio_management",
+        "patterns": [
+          "Can Prima AI help me manage my portfolio?",
+          "How do you build personalized investment portfolios?",
+          "What is your risk management approach?"
+        ],
+        "responses": [
+          "Our platform builds and manages diversified portfolios based on your risk tolerance and investment goals using advanced models to assess risks and adjust your portfolio. However, the final investment decisions remain yours."
+        ]
+      },
+  
+      {
+        "tag": "prima_ai_success_stories",
+        "patterns": [
+          "Can you share success stories of Prima AI users?",
+          "How has Prima AI helped other investors?"
+        ],
+        "responses": [
+          "Certainly! We have many success stories with clients achieving their investment goals. Would you like to hear about specific areas, like long-term growth or short-term trading?"
+        ]
+      },
+      {
+        "tag": "prima_ai_pricing",
+        "patterns": [
+          "What are your pricing plans?",
+          "How much does Prima AI cost?"
+        ],
+        "responses": [
+          "We offer various plans to suit different needs. Check out our website for detailed pricing information, or let me know if you have specific questions about features and costs."
+        ]
+      },
+      {
+        "tag": "prima_ai_free_trial",
+        "patterns": [
+          "Do you offer a free trial?",
+          "Can I try Prima AI before I commit?"
+        ],
+        "responses": [
+          "Absolutely! We offer a free trial to experience our platform firsthand. Sign up on our website to get started."
+        ]
+      }
+    ]
+}
+  
